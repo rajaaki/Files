@@ -1,0 +1,15 @@
+{
+	"name": "adfcourse-rajesh",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0b0f6a9d-b670-4f45-82af-5d572bf1e649",
+		"tenantId": "2345ef93-8ded-4e0a-9800-e50e12a2ebfc"
+	}
+}
